@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/Clubreact/static/js/app.027003a2.chunk.js",
-    "app.js.map": "/Clubreact/static/js/app.027003a2.chunk.js.map",
+    "app.js": "/Clubreact/static/js/app.c98fe778.chunk.js",
+    "app.js.map": "/Clubreact/static/js/app.c98fe778.chunk.js.map",
     "runtime~app.js": "/Clubreact/static/js/runtime~app.ed3bee17.js",
     "runtime~app.js.map": "/Clubreact/static/js/runtime~app.ed3bee17.js.map",
-    "static/js/2.2a18998d.chunk.js": "/Clubreact/static/js/2.2a18998d.chunk.js",
-    "static/js/2.2a18998d.chunk.js.map": "/Clubreact/static/js/2.2a18998d.chunk.js.map",
+    "static/js/2.e8a123db.chunk.js": "/Clubreact/static/js/2.e8a123db.chunk.js",
+    "static/js/2.e8a123db.chunk.js.map": "/Clubreact/static/js/2.e8a123db.chunk.js.map",
     "fonts/AntDesign.ttf": "/Clubreact/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/Clubreact/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/Clubreact/./fonts/Feather.ttf",
@@ -25,13 +25,13 @@
     "index.html": "/Clubreact/index.html",
     "manifest.json": "/Clubreact/manifest.json",
     "serve.json": "/Clubreact/serve.json",
-    "static/js/2.2a18998d.chunk.js.LICENSE.txt": "/Clubreact/static/js/2.2a18998d.chunk.js.LICENSE.txt",
+    "static/js/2.e8a123db.chunk.js.LICENSE.txt": "/Clubreact/static/js/2.e8a123db.chunk.js.LICENSE.txt",
     "static/media/close.android.png": "/Clubreact/static/media/close.android.0d17e028.png",
     "static/media/close.ios.png": "/Clubreact/static/media/close.ios.81d829c3.png"
   },
   "entrypoints": [
     "static/js/runtime~app.ed3bee17.js",
-    "static/js/2.2a18998d.chunk.js",
-    "static/js/app.027003a2.chunk.js"
+    "static/js/2.e8a123db.chunk.js",
+    "static/js/app.c98fe778.chunk.js"
   ]
 }
